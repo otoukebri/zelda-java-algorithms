@@ -9,7 +9,7 @@ import java.util.PriorityQueue;
  The front of the priority queue contains the least element according to the specified ordering,
  and the rear of the priority queue contains the greatest element.
  */
-public class PriorityQueueSample {
+public class PriorityQueueNumbersSample {
 
 
     public static void main(String[] args) {
